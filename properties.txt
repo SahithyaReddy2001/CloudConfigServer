@@ -1,0 +1,1 @@
+insurance.get-all=http://localhost:5001/cloudConfigServer/getPlans
